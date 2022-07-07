@@ -17,7 +17,7 @@ The general flow of this script is :
     Puts the message in drafts
     Sends message
     
-    That is for each user
+   This is for each user
 
 In order to use this script, you will need to be able to use an email address that can be authenticated using Graph
   This address will need to be put in on line 130
